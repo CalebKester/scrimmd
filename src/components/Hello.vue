@@ -9,7 +9,7 @@
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="http://vuejs-templates.github.io/webpack/" target="_blank" rel="noopener">Docs for This Template</a></li>
     </ul>
-    <h2>Ecosystem</h2>
+    <h2 class="">Ecosystem</h2>
     <ul>
       <li><a href="http://router.vuejs.org/" target="_blank" rel="noopener">vue-router</a></li>
       <li><a href="http://vuex.vuejs.org/" target="_blank" rel="noopener">vuex</a></li>
